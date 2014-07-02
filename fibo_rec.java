@@ -24,7 +24,7 @@ public class fibo_rec {
 		return lookup[num];
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner in=new Scanner(System.in);
 		System.out.println("Enter the Fibonacci number to be found");
 		int number=in.nextInt();
